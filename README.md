@@ -61,9 +61,9 @@ Just open index.html in your browser! 🌐
 
 ## 📸 Screenshots
 
-Home Page                                                                                                                                                          Adding a Task
+**Home Page**                                                                                                                                                          
 
-<img width="1124" height="585" alt="Screenshot 2025-09-04 151913" src="https://github.com/user-attachments/assets/639aa4b4-57b4-4a42-a021-ac11b00ca095" />         <img width="1045" height="791" alt="Screenshot 2025-09-04 152329" src="https://github.com/user-attachments/assets/f9dcd08c-8143-498c-ad38-857992eac5e5" />
+<img width="1124" height="585" alt="Screenshot 2025-09-04 151913" src="https://github.com/user-attachments/assets/639aa4b4-57b4-4a42-a021-ac11b00ca095" />        
 
 ## 🎯 Future Enhancements
 
